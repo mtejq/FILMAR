@@ -10,6 +10,7 @@ namespace FILMAR.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+        // testuju commit
             _logger = logger;
         }
 
